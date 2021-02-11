@@ -1,3 +1,5 @@
+<h3>An html project for a course in college</h3>
+
 <h1>Exercise 2:  Auroras of Jupiter</h1>
 <p>The purpose of this exercise is to work with Meta Data and continue to practice importing and formatting text in Dreamweaver.     </p>
 <p>Use the mockup, <strong><em>reference_auroras_of_jupiter.jpg</em></strong>, as a guide to help you identify different elements on the page.  </p>
